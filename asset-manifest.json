@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/smart-home-demo-stie-for-LLMTwins/static/css/main.eaf6f375.css",
-    "main.js": "/smart-home-demo-stie-for-LLMTwins/static/js/main.9a1a1d01.js",
-    "static/js/453.6ce60e92.chunk.js": "/smart-home-demo-stie-for-LLMTwins/static/js/453.6ce60e92.chunk.js",
-    "index.html": "/smart-home-demo-stie-for-LLMTwins/index.html",
-    "main.eaf6f375.css.map": "/smart-home-demo-stie-for-LLMTwins/static/css/main.eaf6f375.css.map",
-    "main.9a1a1d01.js.map": "/smart-home-demo-stie-for-LLMTwins/static/js/main.9a1a1d01.js.map",
-    "453.6ce60e92.chunk.js.map": "/smart-home-demo-stie-for-LLMTwins/static/js/453.6ce60e92.chunk.js.map"
+    "main.css": "/static/css/main.eaf6f375.css",
+    "main.js": "/static/js/main.71ea425d.js",
+    "static/js/453.6ce60e92.chunk.js": "/static/js/453.6ce60e92.chunk.js",
+    "index.html": "/index.html",
+    "main.eaf6f375.css.map": "/static/css/main.eaf6f375.css.map",
+    "main.71ea425d.js.map": "/static/js/main.71ea425d.js.map",
+    "453.6ce60e92.chunk.js.map": "/static/js/453.6ce60e92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eaf6f375.css",
-    "static/js/main.9a1a1d01.js"
+    "static/js/main.71ea425d.js"
   ]
 }
